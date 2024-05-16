@@ -28,7 +28,7 @@ Please download
 Please post your question on the [Forum](https://github.com/orgs/LIDo-October2023/teams/lido_students_team). 
 
 ### Lesson Assignment
-[Assignment](https://classroom.github.com/a/jTvxy8jW) can be accessed at GitHub classroom. 
+[Assignment](https://classroom.github.com/a/kWd1rrd_) can be accessed at GitHub classroom. 
 
 ## Lesson 2: Dynamics, deriving differential equations and using Python to simulate them
 
@@ -49,7 +49,7 @@ Please download
 [A PDF of the JupyterLab notebook](https://github.com/LIDo-October2023/ODE-Modelling/blob/main/Notebooks/Part-V-Lesson-2.pdf) for reference and offline reading 
 
 ### Lesson Assignment
-[Assignment](https://classroom.github.com/a/FomAs8qb) can be accessed at GitHub classroom. 
+[Assignment](https://classroom.github.com/a/I2uHVdZl) can be accessed at GitHub classroom. 
 
 ## Lesson 3: Interconnected Systems
 
@@ -70,7 +70,7 @@ Please download
 [A PDF of the JupyterLab notebook](https://github.com/LIDo-October2023/ODE-Modelling/blob/main/Notebooks/Part-V-Lesson-3.pdf) for reference and offline reading 
 
 ### Lesson Assignment
-[Assignment](https://classroom.github.com/a/2hHwRU39) can be accessed at GitHub classroom.
+[Assignment](https://classroom.github.com/a/ezJyF-mD) can be accessed at GitHub classroom.
 
 ## Optional material: Modelling gene regulatory networks
 
@@ -92,5 +92,5 @@ Slides: [Download Lecture Slides](https://github.com/LIDo-October2023/ODE-Modell
 
 This week you get to choose one of five mini projects to tackle on your own. You will need to use what you have learned over the past three sessions to simulate and explore some classic dynamic biological systems.
 
-[Assignment](https://classroom.github.com/a/0Ts8g7gy) can be accessed at GitHub classroom.
+[Assignment](https://classroom.github.com/a/97awKOpe) can be accessed at GitHub classroom.
 
