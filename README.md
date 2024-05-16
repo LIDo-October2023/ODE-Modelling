@@ -4,7 +4,7 @@
 
 Video (7.29): [Click here for Zoom Recording](https://ucl.zoom.us/rec/share/gcE4jcBPL6yYXiM1eSM3lR4oBhgp1fdZfM6Uv1RLiiW4HsUG2Gpu0Zq4NEn735_P.PByiKx4aLmNZbpyt)
 
-Slides: [Download Lecture Slides](https://github.com/LIDo-2022/ODE-Modelling/blob/main/Slides/Modelling-ODEs-Slides-0-Intro.pdf)
+Slides: [Download Lecture Slides](https://github.com/LIDo-2023/ODE-Modelling/blob/main/Slides/Modelling-ODEs-Slides-0-Intro.pdf)
 
 ## Lesson 1: Reactions, populations and analytical solutions to simple ODEs
 
@@ -14,18 +14,18 @@ Work through the following section on Reactions.
 
 Video (15.36):[Click here for Zoom Recording](https://ucl.zoom.us/rec/share/LwxHq2ofGyhR0x1EfsqZl_X8AalzeKwQVMNMj4ccV3nzYYJGi9ya8bO6vdM7L78.YBmHkJMNL2tahGKk?startTime=1605702569000)
 
-Slides: [Download Lecture Slides](https://github.com/LIDo-2022/ODE-Modelling/blob/main/Slides/Modelling-ODEs-Slides-1-Reactions.pdf)
+Slides: [Download Lecture Slides](https://github.com/LIDo-2023/ODE-Modelling/blob/main/Slides/Modelling-ODEs-Slides-1-Reactions.pdf)
 
-Notes: [Download Notes](https://github.com/LIDo-2022/ODE-Modelling/blob/main/Notes/modelling-notes-L1.pdf)
+Notes: [Download Notes](https://github.com/LIDo-2023/ODE-Modelling/blob/main/Notes/modelling-notes-L1.pdf)
 
 Please download
 
-[The JupyterLab notebook](https://github.com/LIDo-2022/ODE-Modelling/blob/main/Notebooks/Part-V-Lesson-1.ipynb) for this Lesson. 
+[The JupyterLab notebook](https://github.com/LIDo-2023/ODE-Modelling/blob/main/Notebooks/Part-V-Lesson-1.ipynb) for this Lesson. 
 
-[A PDF of the JupyterLab notebook](https://github.com/LIDo-2022/ODE-Modelling/blob/main/Notebooks/Part-V-Lesson-1.pdf) for reference and offline reading 
+[A PDF of the JupyterLab notebook](https://github.com/LIDo-2023/ODE-Modelling/blob/main/Notebooks/Part-V-Lesson-1.pdf) for reference and offline reading 
 
 ### Forum
-Please post your question on the [Forum](https://github.com/orgs/LIDo-2022/teams/lido_students_team). 
+Please post your question on the [Forum](https://github.com/orgs/LIDo-2023/teams/lido_students_team). 
 
 ### Lesson Assignment
 [Assignment](https://classroom.github.com/a/jTvxy8jW) can be accessed at GitHub classroom. 
@@ -38,15 +38,15 @@ Work through the following section on Dynamics.
 
 Video (14.04):[Click here for Zoom Recording](https://ucl.zoom.us/rec/share/LwxHq2ofGyhR0x1EfsqZl_X8AalzeKwQVMNMj4ccV3nzYYJGi9ya8bO6vdM7L78.YBmHkJMNL2tahGKk?startTime=1605704004000)
 
-Slides: [Download Lecture Slides](https://github.com/LIDo-2022/ODE-Modelling/blob/main/Slides/Modelling-ODEs-Slides-2-Dynamics.pdf)
+Slides: [Download Lecture Slides](https://github.com/LIDo-2023/ODE-Modelling/blob/main/Slides/Modelling-ODEs-Slides-2-Dynamics.pdf)
 
-Notes: [Download Notes](https://github.com/LIDo-2022/ODE-Modelling/blob/main/Notes/modelling-notes-L2.pdf)
+Notes: [Download Notes](https://github.com/LIDo-2023/ODE-Modelling/blob/main/Notes/modelling-notes-L2.pdf)
 
 Please download
 
-[The JupyterLab notebook](https://github.com/LIDo-2022/ODE-Modelling/blob/main/Notebooks/Part-V-Lesson-2.ipynb) for this Lesson. 
+[The JupyterLab notebook](https://github.com/LIDo-2023/ODE-Modelling/blob/main/Notebooks/Part-V-Lesson-2.ipynb) for this Lesson. 
 
-[A PDF of the JupyterLab notebook](https://github.com/LIDo-2022/ODE-Modelling/blob/main/Notebooks/Part-V-Lesson-2.pdf) for reference and offline reading 
+[A PDF of the JupyterLab notebook](https://github.com/LIDo-2023/ODE-Modelling/blob/main/Notebooks/Part-V-Lesson-2.pdf) for reference and offline reading 
 
 ### Lesson Assignment
 [Assignment](https://classroom.github.com/a/FomAs8qb) can be accessed at GitHub classroom. 
@@ -59,15 +59,15 @@ Work through the following section.
 
 Video (14.01):[Click here for Zoom Recording](https://ucl.zoom.us/rec/share/xqsdSpOKWcoXpgva1xPpg_RR8fE7jkO4l8kMj6RZlZyfhAO4nfY3zQalPjKnxDq5.Ou8NH1gS3oPW-yzZ)
 
-Slides: [Download Lecture Slides](https://github.com/LIDo-2022/ODE-Modelling/blob/main/Slides/Modelling-ODEs-Slides-3-Systems.pdf)
+Slides: [Download Lecture Slides](https://github.com/LIDo-2023/ODE-Modelling/blob/main/Slides/Modelling-ODEs-Slides-3-Systems.pdf)
 
-Notes: [Download Notes](https://github.com/LIDo-2022/ODE-Modelling/blob/main/Notes/modelling-notes-L3.pdf)
+Notes: [Download Notes](https://github.com/LIDo-2023/ODE-Modelling/blob/main/Notes/modelling-notes-L3.pdf)
 
 Please download
 
-[The JupyterLab notebook](https://github.com/LIDo-2022/ODE-Modelling/blob/main/Notebooks/Part-V-Lesson-3.ipynb) for this Lesson. 
+[The JupyterLab notebook](https://github.com/LIDo-2023/ODE-Modelling/blob/main/Notebooks/Part-V-Lesson-3.ipynb) for this Lesson. 
 
-[A PDF of the JupyterLab notebook](https://github.com/LIDo-2022/ODE-Modelling/blob/main/Notebooks/Part-V-Lesson-3.pdf) for reference and offline reading 
+[A PDF of the JupyterLab notebook](https://github.com/LIDo-2023/ODE-Modelling/blob/main/Notebooks/Part-V-Lesson-3.pdf) for reference and offline reading 
 
 ### Lesson Assignment
 [Assignment](https://classroom.github.com/a/2hHwRU39) can be accessed at GitHub classroom.
@@ -80,13 +80,13 @@ Work through the following sections on gene regulatory networks.
 
 Video (14:32):[Click here for Zoom Recording](https://ucl.zoom.us/rec/share/tKBgjozcw8JqGeVKO7vhWv1McdVy8BiJtTzmxDbmlmqHQwDb2wX6pft7JynbhSv4.3SezoaKAOuMkQNFv?startTime=1605731655000)
 
-Slides: [Download Lecture Slides](https://github.com/LIDo-2022/ODE-Modelling/blob/main/Slides/Modelling-ODEs-Slides-4-Gene-regulation.pdf)
+Slides: [Download Lecture Slides](https://github.com/LIDo-2023/ODE-Modelling/blob/main/Slides/Modelling-ODEs-Slides-4-Gene-regulation.pdf)
 
 ### Gene regulatory networks: the toggle switch and the repressilator
 
 Video (26:03):[Click here for Zoom Recording](https://ucl.zoom.us/rec/share/HtM_H9wWR7dmFBq7ztyUX8j2tmKOstjctJj_GepoGuQRJNzUQTMcTnMgbonKnaDm.Vz0whmYTB4HnZqLe?startTime=1605796953000)
 
-Slides: [Download Lecture Slides](https://github.com/LIDo-2022/ODE-Modelling/blob/main/Slides/Modelling-ODEs-Slides-5-Gene-networks.pdf)
+Slides: [Download Lecture Slides](https://github.com/LIDo-2023/ODE-Modelling/blob/main/Slides/Modelling-ODEs-Slides-5-Gene-networks.pdf)
 
 ## Lesson 4: Mini projects
 
