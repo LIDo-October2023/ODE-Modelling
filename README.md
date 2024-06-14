@@ -24,9 +24,6 @@ Please download
 
 [A PDF of the JupyterLab notebook](https://github.com/LIDo-October2023/ODE-Modelling/blob/main/Notebooks/Part-V-Lesson-1.pdf) for reference and offline reading 
 
-### Forum
-Please post your question on the [Forum](https://github.com/orgs/LIDo-October2023/teams/lido_students_team). 
-
 ### Lesson Assignment
 [Assignment](https://classroom.github.com/a/kWd1rrd_) can be accessed at GitHub classroom. 
 
